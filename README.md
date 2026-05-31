@@ -1,14 +1,5 @@
-# 👋 Hello World! I'm Thomas Edson
+# 👋 Hello World! I'm Alexandru R.
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=30&center=true&vCenter=true&width=1000&lines=Front-End+Developer;Full+Stack+Developer;Back+End+Developer;Always+learning+new+technologies" />
-</p>
-
----
-
-# About Me
-
-👋 Hi, I'm Alexandru R.
 About Me
 
 💼 Senior .NET Full Stack Developer with 8+ years of experience
@@ -22,15 +13,6 @@ About Me
 📍 Based in Romania | Available for Remote Freelance & Contract Opportunities
 
 💡 Resilient by design, stubborn by nature.
-
-What I Do
-Design and develop enterprise-grade backend systems
-Build modern web applications using Angular and .NET
-Create cloud-native solutions on Microsoft Azure
-Develop REST APIs and distributed systems
-Implement Domain-Driven Design (DDD) and CQRS architectures
-Optimize CI/CD pipelines and DevOps workflows
-Contribute to AI-driven software products
 
 ---
 
