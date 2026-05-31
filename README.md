@@ -212,5 +212,8 @@
     </td>
   </tr>
   <tr>
+    <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Rustin-95"/>
+    </p>
   </tr>
 </table>
