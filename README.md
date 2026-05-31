@@ -207,13 +207,10 @@
     <td align="center" width="60%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolae97-boss&theme=transparent" alt="Nicolae97-boss" /></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="40%">
         <a href="#-my-github-stats--" target="_blank"><img alt="goldsunshines" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicolae97-boss&theme=transparent" /></a>
     </td>
-    <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=goldsunshines&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="Nicolae97-boss" /></a>
-    </td>
+  </tr>
+  <tr>
   </tr>
 </table>
