@@ -84,7 +84,7 @@ About Me
 # GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=developer-thomas"/>
+<img src="https://streak-stats.demolab.com?user=Nicolae97-boss"/>
 </p>
 
 ---
