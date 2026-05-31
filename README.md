@@ -8,10 +8,29 @@
 
 # About Me
 
-💻 Front-End Developer since **2022**  
-⚡ Specialized in building **responsive and scalable web interfaces**  
-🧠 Focused on **clean code, performance and maintainability**  
-🌍 Passionate about **technology and software development**
+👋 Hi, I'm Alexandru R.
+About Me
+
+💼 Senior .NET Full Stack Developer with 8+ years of experience
+
+🚀 Helping companies build scalable, maintainable, and cost-effective software solutions
+
+☁️ Specialized in .NET, Azure Cloud, Angular, SQL Server, and Enterprise Architecture
+
+🤖 Experienced with AI-powered applications, LLM integrations, and cloud-native systems
+
+📍 Based in Romania | Available for Remote Freelance & Contract Opportunities
+
+💡 Resilient by design, stubborn by nature.
+
+What I Do
+Design and develop enterprise-grade backend systems
+Build modern web applications using Angular and .NET
+Create cloud-native solutions on Microsoft Azure
+Develop REST APIs and distributed systems
+Implement Domain-Driven Design (DDD) and CQRS architectures
+Optimize CI/CD pipelines and DevOps workflows
+Contribute to AI-driven software products
 
 ---
 
