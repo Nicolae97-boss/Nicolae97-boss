@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Alexandru R.
+# 👋 Hello World! I'm Alexandru Rustin.
 
 About Me
 
