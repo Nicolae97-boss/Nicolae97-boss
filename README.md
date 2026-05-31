@@ -92,7 +92,7 @@ About Me
 # Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-thomas"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolae97-boss"/>
 </p>
 
 ---
